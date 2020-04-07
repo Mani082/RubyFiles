@@ -1,0 +1,14 @@
+nil and false are not same
+to check the existence -- something.nil?
+ternary:
+ puts count == 1 ? "person" : "people"
+everything that user inputs is a string
+ENUMERABLES => A set of items that can be counted or enumerated
+    Arrays, Ranges, Hashes etc..
+     
+Use of Curly-brace formate for code blocks when,
+1.single-line blocks
+2.blocks that return data, no changes
+Do-end formate when,
+1.Multi-line blocks
+2.blocks that perform actions, make changes
